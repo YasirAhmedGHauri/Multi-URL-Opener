@@ -1,9 +1,3 @@
-Here's a project description for a URL opener:
-
-**Project Name:** Multi-URL Opener
-
-**Project Description:**
-
 This project provides a convenient way to open multiple URLs simultaneously. It consists of three key components:
 
 1. **`urls.txt`:** A plain text file containing a list of URLs, one per line.
